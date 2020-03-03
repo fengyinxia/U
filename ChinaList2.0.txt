@@ -8507,6 +8507,7 @@ wxrb.com##.AD340
 wxrb.com##.AD640
 cyol.net##.AD960_90
 jc001.cn##.ADS
+v.qq.com##txpdiv.txp-watermark
 click108.com.tw##.AD_300250
 click108.com.tw##.AD_730280
 tzfdc.com##.AD_A
