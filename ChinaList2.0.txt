@@ -1,9 +1,9 @@
-[Adblock Plus 2.1]
-! Version: 20190402000
-! Title:  ChinaListV2.0[20190402000]
-! Last modified: 2019/04/02 04:23:17 +0800
-! Email: yiclear@aliyun.com
-! Homepage: http://www.yiclear.com
+[Adblock Plus 3.3]
+! Version: 20200303000
+! Title:  LanHua[20200303000
+! Last modified: 2020/03/03 04:23:17 +0800
+! Email: 18396950550@163.com
+! Homepage: https://space.bilibili.com/8582169
 -1688-wp-media/ads/
 -880-80-4.jpg
 .cc/js/ads/
@@ -9897,6 +9897,8 @@ tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u8d34\\u5427\\u89e
 jstv.com##.jadv
 jbtalks.cc,jbtalks.com##.jbt-ad-region
 qidian.com##.jcsp + div[style="HEIGHT: 130px"]
+iqiyi.com##iqpdiv.iqp-logo-top.logoShowAnimation
+iqiyi.com##iqpdiv.iqp-logo-bottom.logoShowAnimation
 sogou.com##.jd-box
 tiexue.net##.jiangWuTang + .mTop10
 jin10.com##.jin-jads
